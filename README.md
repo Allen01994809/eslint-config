@@ -4,8 +4,8 @@
 
 ### npm
 
-`npm install --save-dev eslint eslint-config-prettier eslint-plugin-import @allen-packages/eslint-config`
+`npm install --save-dev eslint @allen-packages/eslint-config`
 
-### yarn
+### yarn1系
 
-`yarn add --dev eslint eslint-config-prettier eslint-plugin-import @allen-packages/eslint-config`
+`yarn add --dev eslint @allen-packages/eslint-config`

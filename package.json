@@ -3,15 +3,14 @@
   "version": "0.0.5",
   "type": "commonjs",
   "main": "./index.js",
-  "peerDependencies": {
-    "eslint": "^8.29.0",
+  "dependencies": {
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.29.0"
   },
   "devDependencies": {
-    "eslint": "^8.29.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.26.0"
-  },
-  "packageManager": "yarn@3.3.0"
+    "eslint": "^8.29.0"
+  }
 }
